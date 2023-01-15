@@ -4,7 +4,7 @@ function App() {
     <div className="App">
 
       <center>
-        <h2>Hello, Firoj Acharya here.</h2>
+        <h2>Hello</h2>
       </center>
 
     </div>
